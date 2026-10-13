@@ -1,0 +1,4 @@
+ezdxf>=1.4
+matplotlib>=3.8
+Pillow
+pypdfium2   # optional, only to preview PDFs as images
