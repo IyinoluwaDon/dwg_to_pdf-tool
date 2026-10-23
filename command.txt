@@ -1,1 +1,1 @@
-   python dwg_to_pdf.py C:\your\dwg\folder C:\your\pdf\folder --scale both
+python dwg_to_pdf.py C:\your\dwg\folder C:\your\pdf\folder --scale both
